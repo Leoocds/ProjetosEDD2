@@ -1,0 +1,16 @@
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.Form1.resources
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.csproj.GenerateResource.cache
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.AssemblyInfoInputs.cache
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.AssemblyInfo.cs
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.csproj.CoreCompileInputs.cache
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\net8.0-windows\ProjAtendimento.exe
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\net8.0-windows\ProjAtendimento.deps.json
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\net8.0-windows\ProjAtendimento.runtimeconfig.json
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\net8.0-windows\ProjAtendimento.dll
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\net8.0-windows\ProjAtendimento.pdb
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.dll
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\refint\ProjAtendimento.dll
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.pdb
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.genruntimeconfig.cache
+S:\Users\leonardo.pedroso\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ref\ProjAtendimento.dll
