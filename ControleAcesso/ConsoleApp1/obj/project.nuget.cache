@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+V9NoUWmLc=",
+  "success": true,
+  "projectFilePath": "S:\\Users\\leonardo.pedroso\\source\\repos\\ControleAcesso\\ConsoleApp1\\ControleAcesso.csproj",
+  "expectedPackageFiles": [
+    "S:\\Users\\leonardo.pedroso\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
