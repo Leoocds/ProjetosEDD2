@@ -1,0 +1,15 @@
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\bin\Debug\net8.0\ProjVendedores.exe
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\bin\Debug\net8.0\ProjVendedores.deps.json
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\bin\Debug\net8.0\ProjVendedores.runtimeconfig.json
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\bin\Debug\net8.0\ProjVendedores.dll
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\bin\Debug\net8.0\ProjVendedores.pdb
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\obj\Debug\net8.0\ProjVendedores.GeneratedMSBuildEditorConfig.editorconfig
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\obj\Debug\net8.0\ProjVendedores.AssemblyInfoInputs.cache
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\obj\Debug\net8.0\ProjVendedores.AssemblyInfo.cs
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\obj\Debug\net8.0\ProjVendedores.csproj.CoreCompileInputs.cache
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\obj\Debug\net8.0\ProjVendedores.sourcelink.json
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\obj\Debug\net8.0\ProjVendedores.dll
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\obj\Debug\net8.0\refint\ProjVendedores.dll
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\obj\Debug\net8.0\ProjVendedores.pdb
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\obj\Debug\net8.0\ProjVendedores.genruntimeconfig.cache
+S:\Users\leonardo.pedroso\source\repos\ProjVendedores\ProjVendedores\obj\Debug\net8.0\ref\ProjVendedores.dll
