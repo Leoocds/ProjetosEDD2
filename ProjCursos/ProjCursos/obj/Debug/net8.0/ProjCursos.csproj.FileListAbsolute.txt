@@ -1,0 +1,15 @@
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\obj\Debug\net8.0\ProjCursos.GeneratedMSBuildEditorConfig.editorconfig
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\obj\Debug\net8.0\ProjCursos.AssemblyInfoInputs.cache
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\obj\Debug\net8.0\ProjCursos.AssemblyInfo.cs
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\obj\Debug\net8.0\ProjCursos.csproj.CoreCompileInputs.cache
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\obj\Debug\net8.0\ProjCursos.sourcelink.json
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\bin\Debug\net8.0\ProjCursos.exe
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\bin\Debug\net8.0\ProjCursos.deps.json
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\bin\Debug\net8.0\ProjCursos.runtimeconfig.json
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\bin\Debug\net8.0\ProjCursos.dll
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\bin\Debug\net8.0\ProjCursos.pdb
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\obj\Debug\net8.0\ProjCursos.dll
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\obj\Debug\net8.0\refint\ProjCursos.dll
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\obj\Debug\net8.0\ProjCursos.pdb
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\obj\Debug\net8.0\ProjCursos.genruntimeconfig.cache
+S:\Users\leonardo.pedroso\source\repos\ProjCursos\ProjCursos\obj\Debug\net8.0\ref\ProjCursos.dll
