@@ -1,0 +1,15 @@
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\bin\Debug\net8.0\ProjContato.exe
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\bin\Debug\net8.0\ProjContato.deps.json
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\bin\Debug\net8.0\ProjContato.runtimeconfig.json
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\bin\Debug\net8.0\ProjContato.dll
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\bin\Debug\net8.0\ProjContato.pdb
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\obj\Debug\net8.0\ProjContato.GeneratedMSBuildEditorConfig.editorconfig
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\obj\Debug\net8.0\ProjContato.AssemblyInfoInputs.cache
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\obj\Debug\net8.0\ProjContato.AssemblyInfo.cs
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\obj\Debug\net8.0\ProjContato.csproj.CoreCompileInputs.cache
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\obj\Debug\net8.0\ProjContato.sourcelink.json
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\obj\Debug\net8.0\ProjContato.dll
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\obj\Debug\net8.0\refint\ProjContato.dll
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\obj\Debug\net8.0\ProjContato.pdb
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\obj\Debug\net8.0\ProjContato.genruntimeconfig.cache
+S:\Users\leonardo.pedroso\source\repos\ProjContato\ProjContato\obj\Debug\net8.0\ref\ProjContato.dll
