@@ -1,0 +1,17 @@
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\bin\Debug\net8.0-windows\bilheteria.exe
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\bin\Debug\net8.0-windows\bilheteria.deps.json
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\bin\Debug\net8.0-windows\bilheteria.runtimeconfig.json
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\bin\Debug\net8.0-windows\bilheteria.dll
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\bin\Debug\net8.0-windows\bilheteria.pdb
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\bilheteria.Form1.resources
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\bilheteria.csproj.GenerateResource.cache
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\bilheteria.GeneratedMSBuildEditorConfig.editorconfig
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\bilheteria.AssemblyInfoInputs.cache
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\bilheteria.AssemblyInfo.cs
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\bilheteria.csproj.CoreCompileInputs.cache
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\bilheteria.sourcelink.json
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\bilheteria.dll
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\refint\bilheteria.dll
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\bilheteria.pdb
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\bilheteria.genruntimeconfig.cache
+S:\Users\leonardo.pedroso\source\repos\bilheteria\bilheteria\obj\Debug\net8.0-windows\ref\bilheteria.dll
